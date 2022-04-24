@@ -6,13 +6,9 @@
         on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
-<iframe
+ <iframe
     allow="microphone;"
     width="350"
     height="430"
-      https://bot.dialogflow.com/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d
-        
-    src="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d">  
-    
-     </iframe>
-
+    src="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d">
+</iframe>
